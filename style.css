@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    margin-top: 20%;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+
+}
+div{
+    border: 2px;
+    border-color: rgb(160, 113, 52);
+    border-radius: 25px;
+    border-style: solid;
+    width: 15%;
+    margin-left: 42%;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Nunito', sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: burlywood;
+}
+li{
+    float: left;
+}
