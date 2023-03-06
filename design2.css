@@ -63,3 +63,21 @@ footer{
 li{
     color: aliceblue;
 }
+.subscriptionplan{
+    
+    margin: 5%,5%,5%,5%;
+    border: 2;
+    border-color: brown;
+    width: 100%;
+    padding-left: 10%;
+    margin-bottom: 10%;
+}
+ol{
+    margin-bottom: 7%;
+    margin-left: 28%;
+}
+small{
+    color: aliceblue;
+    text-align: center;
+    margin-left: 25%;
+}
